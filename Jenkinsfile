@@ -50,7 +50,7 @@ pipeline {
         DEV_APP_NAME              = "flask-app-dev"
         DEV_HOST_PORT             = "5001"
         PROD_APP_NAME             = "flask-app-prod"
-        PROD_HOST_PORT            = "5000"
+        PROD_HOST_PORT            = "5002"
     }
 
     // Input parameters (Build & Deploy หรือ Rollback)
